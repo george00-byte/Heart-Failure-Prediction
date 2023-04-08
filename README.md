@@ -24,5 +24,8 @@ Applying various machine learning algorithms, including logistic regression, dec
 Evaluating the performance of each algorithm using various metrics such as accuracy, precision, recall, and F1 score
 Using feature importance techniques to identify the most important features that influenced the mortality rate of patients
 Summarizing the results and providing insights on how the findings could be used to improve patient care and outcomes.
+
+
+
 Conclusion
 This project demonstrates the use of machine learning data science and data analytics to predict the mortality rate of patients based on various features. The findings could be used to improve patient care and outcomes.
