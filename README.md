@@ -1,4 +1,5 @@
-Project Name: Machine Learning on Heart Failure Clinical Dataset
+<h1>Project Name: Machine Learning on Heart Failure Clinical Dataset</h1>
+
 This project focuses on performing machine learning data science and data analytics on the Heart Failure Clinical Dataset. The goal is to predict the mortality rate of patients based on various features such as age, gender, smoking status, medical history, and others.
 
 Technologies Used
